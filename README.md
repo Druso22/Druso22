@@ -1,16 +1,13 @@
-## Hi there 👋
+## I'm Druso Fulford
+I enjoy learning new skills
 
-<!--
-**Druso22/Druso22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+:mortar_board: Sophomore studying @ [**University of Central Florida**][university]<br>
 
-Here are some ideas to get you started:
+## Current Courses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Technical Skills
+
+## 
+
